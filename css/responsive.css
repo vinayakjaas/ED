@@ -80,7 +80,7 @@
     .header-title h1{
         font-size: 4rem;
     }
-    .header-form form{
+    .header-form form .form-control{
         -webkit-box-orient: horizontal;
         -webkit-box-direction: normal;
             -ms-flex-direction: row;
